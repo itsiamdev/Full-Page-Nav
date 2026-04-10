@@ -9,7 +9,7 @@ A sleek and responsive full-page navigation system designed for modern web appli
 - 🔗 Easy integration with existing projects
 
 ## Live Demo
-Check out the live demo here: [https://iam269.github.io/Full-Page-Nav/](https://iam269.github.io/Full-Page-Nav/) 🌟
+Check out the live demo here: [https://itsiamdev.github.io/Full-Page-Nav/](https://itsiamdev.github.io/Full-Page-Nav/) 🌟
 
 ## Getting Started
 1. Clone the repository
